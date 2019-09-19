@@ -1,0 +1,126 @@
+# Translation of Themes - EmpowerWP in Danish
+# This file is distributed under the same license as the Themes - EmpowerWP package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-18 16:39:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Themes - EmpowerWP\n"
+
+#. Description of the theme
+msgid "EmpowerWP is an incredibly flexible, multipurpose WordPress theme that can help you create an amazing website easier than ever, by drag and drop. It comes with a predesigned home page, 5 header designs and over 30 ready to use content sections that you can easily customize. It also has lots of customization options (video background, slideshow background, header content types, gradient overlays, etc) that will help you create a beautiful, unique website in no time. Empower is responsive so it works on mobile devices out of the box and it is also WooCommerce ready."
+msgstr "EmpowerWP er et utroligt fleksiibelt WordPress-tema, der kan bruges til mange formål og hjælpe dig med at skabe et fantastisk websted, lettere end nogensinde, med træk og slip. Det er født med en prædesignet forside, 5 sidehoveddesigns og over 30 klar-til-at-bruge indholdssektioner, som du let kan tilpasse. Det har også mulighed for mange tilretninger (video baggrund, slideshow baggrund, sidehoved indholdstyper, graduerede overlays, osv.) der vil hjælpe dig til at skabe et smukt websted på ingen tid. EmpowerWP er responsivt, så det virker ud af boksen på mobile enheder, og det er også klargjort til WooCommerce."
+
+#. Theme Name of the theme
+msgid "EmpowerWP"
+msgstr "EmpowerWP"
+
+#: template-parts/blog-meta.php:13
+msgid "in"
+msgstr "i"
+
+#: template-parts/content-none.php:12
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi kan vist ikke finde, hvad du leder efter. Måske en søgning vil hjælpe?"
+
+#: template-parts/content-none.php:9
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men intet matchede dine søgekriterier. Prøv venligst igen med nogle andre søgeord."
+
+#: template-parts/content-none.php:7
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til at udgive dit første indlæg? <a href=\"%1$s\">Start her</a>."
+
+#: template-parts/content-none.php:4
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: template-parts/content-single.php:38
+msgid "Previous post:"
+msgstr "Forrige indlæg:"
+
+#: template-parts/content-single.php:37
+msgid "Previous:"
+msgstr "Forrige"
+
+#: template-parts/content-single.php:34
+msgid "Next post:"
+msgstr "Næste indlæg:"
+
+#: template-parts/content-single.php:33
+msgid "Next:"
+msgstr "Næste:"
+
+#: template-parts/content-single.php:20
+msgid "Page"
+msgstr "Side"
+
+#: template-parts/content-page.php:6 template-parts/content-single.php:16
+msgid "Pages:"
+msgstr "Sider:"
+
+#: template-parts/blog-meta.php:14 template-parts/content-post-meta.php:10
+#: template-parts/content-post-single-header.php:12
+msgid "on"
+msgstr "på"
+
+#: template-parts/blog-meta.php:12 template-parts/content-post-meta.php:8
+#: template-parts/content-post-single-header.php:11
+msgid "by"
+msgstr "af"
+
+#: inc/admin.php:49
+msgid "To enable all the theme features, please install the companion plugin"
+msgstr "For at få adgang til alle temamuligheder, så installer venligst companion pluginet."
+
+#: inc/blog-options.php:9
+msgid "Show author bio in sidebar"
+msgstr "Vis forfatterbiografi i sidebar"
+
+#: functions.php:166
+msgid "Y"
+msgstr "Y"
+
+#: functions.php:161
+msgid "Built using WordPress and the %s"
+msgstr "Bygget ved at bruge WordPress og %s"
+
+#: functions.php:146
+msgid "Mesmerize Companion plugin adds drag and drop functionality and many other features to the EmpowerWP theme."
+msgstr "Mesmerize Companion pluginet tilføjer træk og slip funktionalitet og mange andre muligheder til EmpowerWP temaet."
+
+#: functions.php:142
+msgid "Thank you for choosing EmpowerWP!"
+msgstr "Tak fordi du valgte EmpowerWP!"
+
+#: functions.php:138
+msgid "EmpowerWP PRO"
+msgstr "EmpowerWP PRO"
+
+#: functions.php:133
+msgid "EmpowerWP Demos"
+msgstr "EmpowerWP Demoer"
+
+#: functions.php:128
+msgid "EmpowerWP Info"
+msgstr "EmpowerWP info"
+
+#: sidebar.php:27
+msgid "About the author"
+msgstr "Om forfatteren"
+
+#: sidebar.php:20
+msgid "Author bio info example. This area will appear only if the user Biographical Info is filled"
+msgstr "Forfatterbiografi eksempel. Dette område vil kun dukke op, hvis brugerens biografiske information er udfyldt."
+
+#. Author URI of the theme
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+msgid "Extend Themes"
+msgstr "Extend Themes"

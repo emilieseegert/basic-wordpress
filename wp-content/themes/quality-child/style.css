@@ -1,0 +1,54 @@
+/*
+Theme Name: quality child
+Description: quality Child Theme
+Author: Emilie 
+Template: quality
+Version: 1.0.0
+Text Domain: quality-child
+*/
+
+* {
+  
+
+  
+}
+
+
+.post-content {
+  padding: 0px !important;
+  
+  }
+
+/*
+#section-block {
+  background-color: red !important;
+  display: none !important;
+  
+}
+  
+ .site-content {
+  display: none !important;
+  background-color: red !important;
+}
+
+
+.page-title-section.bg-grey {
+  display: none !important;
+  
+  
+}
+
+*/
+
+.navbar {
+  padding-top: 20px !important;
+}
+
+#custom-collapse {
+  background-color: red !important;
+}
+
+.navbar-custom {
+  padding-top: 20px !important;
+}
+
